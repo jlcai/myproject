@@ -1,6 +1,6 @@
 def square(numbers):
     """
-    This fucntion computes squares of numbers in a list
+    This function computes squares of numbers in a list
     :param numbers: a list of numbers
     :return: a list of the squares of the numbers passed in the input
     """
